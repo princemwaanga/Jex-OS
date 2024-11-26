@@ -77,7 +77,7 @@ You can run JEX OS using either QEMU or VirtualBox.
 To run JEX OS with QEMU, use the following command:
 
 ```bash
-qemu-system-x86_64 -cdrom jex-os.iso
+qemu-system-x86_64 -cdrom jex.iso
 ```
 
 ### Using VirtualBox
