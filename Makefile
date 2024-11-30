@@ -63,4 +63,4 @@ boot.o: boot.asm
 clean:
 	rm -rf *.o kernel.elf JEX.iso
 	rm -rf kernel/*.o drivers/*.o cpu/*.o libc/string/*.o kprograms/*.o process/*.o filesystem/*.o
-	make
+	
